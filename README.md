@@ -1,5 +1,7 @@
 # Luis Villarreal <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" height="50" />
 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luisvillarrealx)
+
 I am a Computer Science student interested in web development and project management.
 
 - [The Complete Web Development Bootcamp](https://www.udemy.com/certificate/UC-c6e6efc7-b64e-4a1a-b8b5-c8032773f739/)
